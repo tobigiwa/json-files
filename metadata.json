@@ -1,5 +1,11 @@
 {
-    "name": "Baddies Token",
-    "sysmbol": "BADDIES",
-    "image": "https://cms.blavity.com/wp-content/uploads/2024/03/GettyImages-1687987901.jpg"
+    "name": "Token22",
+    "sysmbol": "T22",
+    "image": "https://i.postimg.cc/Xv2gVDyP/name.jpg",
+    "attributes": [
+      {
+        "trait_type": "Key",
+        "value": "Hack"
+      }
+    ]
 }
