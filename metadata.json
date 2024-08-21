@@ -1,8 +1,15 @@
 {
     "name": "Token22",
     "sysmbol": "T22",
+    "description:" "fuck yes",
     "image": "https://i.postimg.cc/Xv2gVDyP/name.jpg",
     "attributes": [
+      {
+        "trait_type": "Key",
+        "value": "Hack"
+      }
+    ],
+    "properties": [
       {
         "trait_type": "Key",
         "value": "Hack"
